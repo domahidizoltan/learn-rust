@@ -12,3 +12,41 @@ edition = "2021"
 #################
 #rust-by-example#
 #################
+
+# 1. Hello World
+
+    [[example]]
+    name = "rbe_1_0_hello_world"
+    path = "src/rust-by-example/01-hello-world/0_hello_world.rs"
+
+    [[example]]
+    name = "rbe_1_1_comments"
+    path = "src/rust-by-example/01-hello-world/1_comments.rs"
+
+    [[example]]
+    name = "rbe_2_1_debug_1"
+    path = "src/rust-by-example/01-hello-world/2_1_debug_1.rs"
+
+    [[example]]
+    name = "rbe_2_1_debug_2"
+    path = "src/rust-by-example/01-hello-world/2_1_debug_2.rs"
+
+    [[example]]
+    name = "rbe_2_2_display_1"
+    path = "src/rust-by-example/01-hello-world/2_2_display_1.rs"
+
+    [[example]]
+    name = "rbe_2_2_display_1_activity"
+    path = "src/rust-by-example/01-hello-world/2_2_display_1_activity.rs"
+
+    [[example]]
+    name = "rbe_2_2_display_2"
+    path = "src/rust-by-example/01-hello-world/2_2_display_2.rs"
+
+    [[example]]
+    name = "rbe_2_2_display_2_activity"
+    path = "src/rust-by-example/01-hello-world/2_2_display_2_activity.rs"
+
+    [[example]]
+    name = "rbe_3_formatting"
+    path = "src/rust-by-example/01-hello-world/3_formatting.rs"
