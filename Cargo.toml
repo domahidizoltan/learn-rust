@@ -69,3 +69,46 @@ edition = "2021"
     name = "rbe_2_3_arrays_and_slices"
     path = "src/rust-by-example/02-primitives/3_arrays_and_slices.rs"
 
+
+
+####################
+# rust-by-practice #
+####################
+
+# 3. Variables
+
+    [[example]]
+    name = "rbp_3_variables_1_binding_and_mutability"
+    path = "src/rust-by-practice/3-variables/0_variables_1_binding_and_mutability.rs"
+
+    [[example]]
+    name = "rbp_3_variables_2_binding_and_mutability"
+    path = "src/rust-by-practice/3-variables/0_variables_2_binding_and_mutability.rs"
+
+    [[example]]
+    name = "rbp_3_variables_3_scope"
+    path = "src/rust-by-practice/3-variables/0_variables_3_scope.rs"
+
+    [[example]]
+    name = "rbp_3_variables_4_scope"
+    path = "src/rust-by-practice/3-variables/0_variables_4_scope.rs"
+
+    [[example]]
+    name = "rbp_3_variables_5_shadowing"
+    path = "src/rust-by-practice/3-variables/0_variables_5_shadowing.rs"
+
+    [[example]]
+    name = "rbp_3_variables_6_shadowing"
+    path = "src/rust-by-practice/3-variables/0_variables_6_shadowing.rs"
+
+    [[example]]
+    name = "rbp_3_variables_7_unused_variables"
+    path = "src/rust-by-practice/3-variables/0_variables_7_unused_variables.rs"
+
+    [[example]]
+    name = "rbp_3_variables_8_destructuring"
+    path = "src/rust-by-practice/3-variables/0_variables_8_destructuring.rs"
+
+    [[example]]
+    name = "rbp_3_variables_9_destructuring_assignments"
+    path = "src/rust-by-practice/3-variables/0_variables_9_destructuring_assignments.rs"
