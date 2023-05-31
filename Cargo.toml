@@ -9,9 +9,9 @@ edition = "2021"
 
 
 
-#################
-#rust-by-example#
-#################
+###################
+# rust-by-example #
+###################
 
 # 1. Hello World
 
@@ -24,29 +24,48 @@ edition = "2021"
     path = "src/rust-by-example/01-hello-world/1_comments.rs"
 
     [[example]]
-    name = "rbe_2_1_debug_1"
+    name = "rbe_1_2_debug_1"
     path = "src/rust-by-example/01-hello-world/2_1_debug_1.rs"
 
     [[example]]
-    name = "rbe_2_1_debug_2"
+    name = "rbe_1_2_debug_2"
     path = "src/rust-by-example/01-hello-world/2_1_debug_2.rs"
 
     [[example]]
-    name = "rbe_2_2_display_1"
+    name = "rbe_1_2_display_1"
     path = "src/rust-by-example/01-hello-world/2_2_display_1.rs"
 
     [[example]]
-    name = "rbe_2_2_display_1_activity"
+    name = "rbe_1_2_display_1_activity"
     path = "src/rust-by-example/01-hello-world/2_2_display_1_activity.rs"
 
     [[example]]
-    name = "rbe_2_2_display_2"
+    name = "rbe_1_2_display_2"
     path = "src/rust-by-example/01-hello-world/2_2_display_2.rs"
 
     [[example]]
-    name = "rbe_2_2_display_2_activity"
+    name = "rbe_1_2_display_2_activity"
     path = "src/rust-by-example/01-hello-world/2_2_display_2_activity.rs"
 
     [[example]]
-    name = "rbe_3_formatting"
+    name = "rbe_1_3_formatting"
     path = "src/rust-by-example/01-hello-world/3_formatting.rs"
+
+# 2. Primitives
+
+    [[example]]
+    name = "rbe_2_0_primitives"
+    path = "src/rust-by-example/02-primitives/0_primitives.rs"
+
+    [[example]]
+    name = "rbe_2_1_literals_and_operators"
+    path = "src/rust-by-example/02-primitives/1_literals_and_operators.rs"
+
+    [[example]]
+    name = "rbe_2_2_tuples"
+    path = "src/rust-by-example/02-primitives/2_tuples.rs"
+
+    [[example]]
+    name = "rbe_2_3_arrays_and_slices"
+    path = "src/rust-by-example/02-primitives/3_arrays_and_slices.rs"
+
