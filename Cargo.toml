@@ -112,3 +112,109 @@ edition = "2021"
     [[example]]
     name = "rbp_3_variables_9_destructuring_assignments"
     path = "src/rust-by-practice/3-variables/0_variables_9_destructuring_assignments.rs"
+
+# 4. Basic Types
+
+    [[example]]
+    name = "rbp_4_basic_types_1_numbers_1_integer"
+    path = "src/rust-by-practice/4-basic-types/1_numbers_1_integer.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_1_numbers_2_integer"
+    path = "src/rust-by-practice/4-basic-types/1_numbers_2_integer.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_1_numbers_3_integer"
+    path = "src/rust-by-practice/4-basic-types/1_numbers_3_integer.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_1_numbers_4_integer"
+    path = "src/rust-by-practice/4-basic-types/1_numbers_4_integer.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_1_numbers_5_integer"
+    path = "src/rust-by-practice/4-basic-types/1_numbers_5_integer.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_1_numbers_6_integer"
+    path = "src/rust-by-practice/4-basic-types/1_numbers_6_integer.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_1_numbers_7_floating_point"
+    path = "src/rust-by-practice/4-basic-types/1_numbers_7_floating_point.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_1_numbers_8_floating_point"
+    path = "src/rust-by-practice/4-basic-types/1_numbers_8_floating_point.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_1_numbers_9_range"
+    path = "src/rust-by-practice/4-basic-types/1_numbers_9_range.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_1_numbers_10_range"
+    path = "src/rust-by-practice/4-basic-types/1_numbers_10_range.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_1_numbers_11_computations"
+    path = "src/rust-by-practice/4-basic-types/1_numbers_11_computations.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_2_cbu_1_char"
+    path = "src/rust-by-practice/4-basic-types/2_cbu_1_char.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_2_cbu_2_char"
+    path = "src/rust-by-practice/4-basic-types/2_cbu_2_char.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_2_cbu_3_bool"
+    path = "src/rust-by-practice/4-basic-types/2_cbu_3_bool.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_2_cbu_4_bool"
+    path = "src/rust-by-practice/4-basic-types/2_cbu_4_bool.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_2_cbu_5_unit"
+    path = "src/rust-by-practice/4-basic-types/2_cbu_5_unit.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_2_cbu_6_unit"
+    path = "src/rust-by-practice/4-basic-types/2_cbu_6_unit.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_3_statements_expressions_0"
+    path = "src/rust-by-practice/4-basic-types/3_statements_expressions_0.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_3_statements_expressions_1"
+    path = "src/rust-by-practice/4-basic-types/3_statements_expressions_1.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_3_statements_expressions_2"
+    path = "src/rust-by-practice/4-basic-types/3_statements_expressions_2.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_3_statements_expressions_3"
+    path = "src/rust-by-practice/4-basic-types/3_statements_expressions_3.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_4_functions_1"
+    path = "src/rust-by-practice/4-basic-types/4_functions_1.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_4_functions_2"
+    path = "src/rust-by-practice/4-basic-types/4_functions_2.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_4_functions_3"
+    path = "src/rust-by-practice/4-basic-types/4_functions_3.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_4_functions_4_diverging"
+    path = "src/rust-by-practice/4-basic-types/4_functions_4_diverging.rs"
+
+    [[example]]
+    name = "rbp_4_basic_types_4_functions_5_diverging"
+    path = "src/rust-by-practice/4-basic-types/4_functions_5_diverging.rs"
