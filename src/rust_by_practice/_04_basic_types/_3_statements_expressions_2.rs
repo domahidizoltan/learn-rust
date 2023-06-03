@@ -1,5 +1,5 @@
 
-fn main() {
+pub fn main() {
     let v = {
         let x = 3;
         x

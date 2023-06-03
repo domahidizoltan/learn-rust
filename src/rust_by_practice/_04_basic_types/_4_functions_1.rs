@@ -1,5 +1,5 @@
 
-fn main() {
+pub fn main() {
     // Don't modify the following two lines!
     let (x, y) = (1, 2);
     let s = sum(x, y);

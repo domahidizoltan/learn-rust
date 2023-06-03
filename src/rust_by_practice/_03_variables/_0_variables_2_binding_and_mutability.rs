@@ -1,5 +1,5 @@
 // Fill the blanks in the code to make it compile
-fn main() {
+pub fn main() {
     let mut x = 1;
     x += 2; 
     

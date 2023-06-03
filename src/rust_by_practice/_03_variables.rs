@@ -1,0 +1,9 @@
+pub mod _0_variables_1_binding_and_mutability;
+pub mod _0_variables_2_binding_and_mutability;
+pub mod _0_variables_3_scope;
+pub mod _0_variables_4_scope;
+pub mod _0_variables_5_shadowing;
+pub mod _0_variables_6_shadowing;
+pub mod _0_variables_7_unused_variables;
+pub mod _0_variables_8_destructuring;
+pub mod _0_variables_9_destructuring_assignments;

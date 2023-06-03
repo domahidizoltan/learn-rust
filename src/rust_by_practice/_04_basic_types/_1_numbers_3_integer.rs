@@ -1,6 +1,6 @@
 
 // Modify `assert_eq!` to make it work
-fn main() {
+pub fn main() {
     let x = 5;
     assert_eq!("i32".to_string(), type_of(&x));
 

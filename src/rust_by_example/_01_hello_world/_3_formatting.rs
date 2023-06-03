@@ -35,7 +35,7 @@ impl Display for Color {
     }
 }
 
-fn main() {
+pub fn main() {
     for city in [
         City { name: "Dublin", lat: 53.347778, lon: -6.259722 },
         City { name: "Oslo", lat: 59.95, lon: 10.75 },

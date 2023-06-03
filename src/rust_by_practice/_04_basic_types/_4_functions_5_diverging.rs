@@ -1,5 +1,5 @@
 
-fn main() {
+pub fn main() {
     // FILL in the blank
     let b = false;
 

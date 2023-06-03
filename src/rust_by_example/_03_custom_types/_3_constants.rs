@@ -7,7 +7,7 @@ fn is_big(n: i32) -> bool {
     n > THRESHOLD
 }
 
-fn main() {
+pub fn main() {
     let n = 16;
 
     // Access constant in the main thread

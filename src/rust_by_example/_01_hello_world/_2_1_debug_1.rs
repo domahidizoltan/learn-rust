@@ -8,7 +8,7 @@ struct Structure(i32);
 #[derive(Debug)]
 struct Deep(Structure);
 
-fn main() {
+pub fn main() {
     // Printing with `{:?}` is similar to with `{}`.
     println!("{:?} months in a year.", 12);
     println!("{1:?} {0:?} is the {actor:?} name.",

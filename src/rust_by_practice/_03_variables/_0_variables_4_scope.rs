@@ -1,6 +1,6 @@
 
 // Fix the error with the use of define_x
-fn main() {
+pub fn main() {
     let x = define_x();
     println!("{}, world", x); 
 }

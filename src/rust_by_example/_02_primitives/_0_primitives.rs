@@ -1,4 +1,4 @@
-fn main() {
+pub fn main() {
     // Variables can be type annotated.
     let logical: bool = true;
 
@@ -18,7 +18,7 @@ fn main() {
     mutable = 21;
 
     // Error! The type of a variable can't be changed.
-    mutable = true;
+    // mutable = true;
 
     // Variables can be overwritten with shadowing.
     let mutable = true;

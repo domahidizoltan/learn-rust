@@ -1,6 +1,6 @@
 
 // Fix the error below with least amount of modification
-fn main() {
+pub fn main() {
     let (mut x, y) = (1, 2);
     x += 2;
 

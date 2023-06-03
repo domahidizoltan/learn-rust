@@ -4,7 +4,7 @@ struct Person<'a> {
     age: u8
 }
 
-fn main() {
+pub fn main() {
     let name = "Peter";
     let age = 27;
     let peter = Person { name, age };

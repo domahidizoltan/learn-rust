@@ -1,6 +1,6 @@
 
 // Remove a line in the code to make it compile
-fn main() {
+pub fn main() {
     let mut x: i32 = 1;
     x = 7;
     // Shadowing and re-binding

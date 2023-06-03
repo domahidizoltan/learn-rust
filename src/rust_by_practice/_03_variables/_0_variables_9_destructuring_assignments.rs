@@ -1,5 +1,5 @@
 
-fn main() {
+pub fn main() {
     let (x, y);
     (x,..) = (3, 4);
     [.., y] = [1, 2];

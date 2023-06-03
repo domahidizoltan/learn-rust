@@ -24,7 +24,7 @@ fn transpose(m: Matrix) -> Matrix {
     Matrix(m.0, m.2, m.1, m.3)
 }
 
-fn main() {
+pub fn main() {
     // A tuple with a bunch of different types.
     let long_tuple = (1u8, 2u16, 3u32, 4u64,
                       -1i8, -2i16, -3i32, -4i64,

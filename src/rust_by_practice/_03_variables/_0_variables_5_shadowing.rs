@@ -1,6 +1,6 @@
 
 // Only modify `assert_eq!` to make the `println!` work(print `42` in terminal)
-fn main() {
+pub fn main() {
     let x: i32 = 5;
     {
         let x = 12;

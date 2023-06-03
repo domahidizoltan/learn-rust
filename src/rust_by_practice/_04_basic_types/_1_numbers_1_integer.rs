@@ -1,6 +1,6 @@
 
 // Remove something to make it work
-fn main() {
+pub fn main() {
     let x: i32 = 5;
     let mut y = 5;
 

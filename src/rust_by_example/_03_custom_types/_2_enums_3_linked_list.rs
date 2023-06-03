@@ -1,4 +1,5 @@
-use crate::List::*;
+//use crate::List::*;
+use List::*;
 
 enum List {
     // Cons: Tuple struct that wraps an element and a pointer to the next node
@@ -54,7 +55,7 @@ impl List {
     }
 }
 
-fn main() {
+pub fn main() {
     // Create an empty linked list
     let mut list = List::new();
 

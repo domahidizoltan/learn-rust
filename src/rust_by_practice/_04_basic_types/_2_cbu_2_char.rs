@@ -1,6 +1,6 @@
 
 // Make it work
-fn main() {
+pub fn main() {
     let c1 = "中";
     print_char(c1);
 } 

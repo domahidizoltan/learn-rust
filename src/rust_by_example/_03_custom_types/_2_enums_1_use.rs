@@ -11,12 +11,14 @@ enum Work {
     Soldier,
 }
 
-fn main() {
+pub fn main() {
     // Explicitly `use` each name so they are available without
     // manual scoping.
-    use crate::Status::{Poor, Rich};
+    //use crate::Status::{Poor, Rich};
+    use Status::{Poor, Rich};
     // Automatically `use` each name inside `Work`.
-    use crate::Work::*;
+    //use crate::Work::*;
+    use Work::*;
 
     // Equivalent to `Status::Poor`.
     let status = Poor;

@@ -1,6 +1,6 @@
 
 // Make println! work
-fn main() {
+pub fn main() {
     let _f: bool = false;
 
     let t = true;

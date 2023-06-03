@@ -1,6 +1,6 @@
 
 // Make it work, don't modify `implicitly_ret_unit` !
-fn main() {
+pub fn main() {
     let _v: () = ();
 
     let v = (2, 3);

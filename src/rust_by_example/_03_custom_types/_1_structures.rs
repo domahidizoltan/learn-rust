@@ -29,7 +29,7 @@ struct Rectangle {
     bottom_right: Point,
 }
 
-fn main() {
+pub fn main() {
     // Create struct with field init shorthand
     let name = String::from("Peter");
     let age = 27;
