@@ -69,6 +69,32 @@ edition = "2021"
     name = "rbe_2_3_arrays_and_slices"
     path = "src/rust-by-example/02-primitives/3_arrays_and_slices.rs"
 
+# 3. Custom Types
+
+    [[example]]
+    name = "rbe_3_1_structures"
+    path = "src/rust-by-example/3-custom-types/1_structures.rs"
+
+    [[example]]
+    name = "rbe_3_2_enums"
+    path = "src/rust-by-example/3-custom-types/2_enums_0.rs"
+
+    [[example]]
+    name = "rbe_3_2_enums_1_use"
+    path = "src/rust-by-example/3-custom-types/2_enums_1_use.rs"
+
+    [[example]]
+    name = "rbe_3_2_enums_2_c_like"
+    path = "src/rust-by-example/3-custom-types/2_enums_2_c_like.rs"
+
+    [[example]]
+    name = "rbe_3_2_enums_3_linked_list"
+    path = "src/rust-by-example/3-custom-types/2_enums_3_linked_list.rs"
+
+    [[example]]
+    name = "rbe_3_3_constants"
+    path = "src/rust-by-example/3-custom-types/3_constants.rs"
+
 
 
 ####################
