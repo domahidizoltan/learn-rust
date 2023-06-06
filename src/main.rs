@@ -35,6 +35,11 @@ fn rust_by_example() {
     // rust_by_example::_04_variable_bindings::_2_scope_and_shadowing_2::main();
     // rust_by_example::_04_variable_bindings::_3_declare_first::main();
     // rust_by_example::_04_variable_bindings::_4_freezing::main();
+
+    // rust_by_example::_05_types::_1_casting::main();
+    // rust_by_example::_05_types::_2_literals::main();
+    // rust_by_example::_05_types::_3_inference::main();
+    // rust_by_example::_05_types::_4_aliasing::main();
 }
 
 fn rust_by_practice() {
