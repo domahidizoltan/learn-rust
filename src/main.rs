@@ -44,6 +44,8 @@ fn rust_by_example() {
     // rust_by_example::_06_conversions::_1_from_and_into::main();
     // rust_by_example::_06_conversions::_2_tryfrom_and_tryinto::main();
     // rust_by_example::_06_conversions::_3_to_and_from_strings::main();
+
+    // rust_by_example::_07_expressions::_0_expressions::main();
 }
 
 fn rust_by_practice() {

@@ -4,3 +4,4 @@ pub mod _03_custom_types;
 pub mod _04_variable_bindings;
 pub mod _05_types;
 pub mod _06_conversions;
+pub mod _07_expressions;
