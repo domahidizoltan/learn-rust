@@ -46,6 +46,20 @@ fn rust_by_example() {
     // rust_by_example::_06_conversions::_3_to_and_from_strings::main();
 
     // rust_by_example::_07_expressions::_0_expressions::main();
+
+    // rust_by_example::_08_flow_of_control::_1_if_else::main();
+    // rust_by_example::_08_flow_of_control::_2_loop::main();
+    // rust_by_example::_08_flow_of_control::_2_loop_1_nesting_and_labels::main();
+    // rust_by_example::_08_flow_of_control::_2_loop_2_returning_from_loops::main();
+    // rust_by_example::_08_flow_of_control::_3_while::main();
+    // rust_by_example::_08_flow_of_control::_4_for_and_range::main();
+    // rust_by_example::_08_flow_of_control::_5_match::main();
+    // rust_by_example::_08_flow_of_control::_5_match_1_destructuring::main();
+    // rust_by_example::_08_flow_of_control::_5_match_2_guards::main();
+    // rust_by_example::_08_flow_of_control::_5_match_3_binding::main();
+    // rust_by_example::_08_flow_of_control::_6_if_let::main();
+    // rust_by_example::_08_flow_of_control::_7_let_else::main();
+    // rust_by_example::_08_flow_of_control::_8_while_let::main();
 }
 
 fn rust_by_practice() {
