@@ -28,6 +28,13 @@ fn rust_by_example() {
     // rust_by_example::_03_custom_types::_2_enums_2_c_like::main();
     // rust_by_example::_03_custom_types::_2_enums_3_linked_list::main();
     // rust_by_example::_03_custom_types::_3_constants::main();
+
+    // rust_by_example::_04_variable_bindings::_0_variable_bindings::main();
+    // rust_by_example::_04_variable_bindings::_1_mutability::main();
+    // rust_by_example::_04_variable_bindings::_2_scope_and_shadowing_1::main();
+    // rust_by_example::_04_variable_bindings::_2_scope_and_shadowing_2::main();
+    // rust_by_example::_04_variable_bindings::_3_declare_first::main();
+    // rust_by_example::_04_variable_bindings::_4_freezing::main();
 }
 
 fn rust_by_practice() {
