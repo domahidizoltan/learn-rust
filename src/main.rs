@@ -40,6 +40,10 @@ fn rust_by_example() {
     // rust_by_example::_05_types::_2_literals::main();
     // rust_by_example::_05_types::_3_inference::main();
     // rust_by_example::_05_types::_4_aliasing::main();
+
+    // rust_by_example::_06_conversions::_1_from_and_into::main();
+    // rust_by_example::_06_conversions::_2_tryfrom_and_tryinto::main();
+    // rust_by_example::_06_conversions::_3_to_and_from_strings::main();
 }
 
 fn rust_by_practice() {
