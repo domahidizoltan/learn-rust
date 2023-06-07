@@ -170,4 +170,16 @@ fn rust_by_practice() {
     // rust_by_practice::_06_compound_types::_6_enum_5::main();
     // rust_by_practice::_06_compound_types::_6_enum_6::main();
 
+    // rust_by_practice::_07_flow_control::_1_flow_control_1_if_else::main();
+    // rust_by_practice::_07_flow_control::_1_flow_control_2_if_else::main();
+    // rust_by_practice::_07_flow_control::_1_flow_control_3_for::main();
+    // rust_by_practice::_07_flow_control::_1_flow_control_4_for::main();
+    // rust_by_practice::_07_flow_control::_1_flow_control_5_for::main();
+    // rust_by_practice::_07_flow_control::_1_flow_control_6_while::main();
+    // rust_by_practice::_07_flow_control::_1_flow_control_7_continue_and_break::main();
+    // rust_by_practice::_07_flow_control::_1_flow_control_8_continue_and_break::main();
+    // rust_by_practice::_07_flow_control::_1_flow_control_9_loop::main();
+    // rust_by_practice::_07_flow_control::_1_flow_control_10_loop::main();
+    // rust_by_practice::_07_flow_control::_1_flow_control_11_loop::main();
+
 }
