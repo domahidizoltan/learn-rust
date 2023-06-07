@@ -100,4 +100,25 @@ fn rust_by_practice() {
     // rust_by_practice::_04_basic_types::_4_functions_4_diverging::main();
     // rust_by_practice::_04_basic_types::_4_functions_5_diverging::main();
     
+    // rust_by_practice::_05_ownership_and_borrowing::_1_ownership_1::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_1_ownership_2::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_1_ownership_3::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_1_ownership_4::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_1_ownership_5::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_1_ownership_6_mutability::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_1_ownership_7_mutability::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_1_ownership_8_partial_move_example::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_1_ownership_8_partial_move::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_1_ownership_9_partial_move::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_2_referencing_and_borrowing_1_reference::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_2_referencing_and_borrowing_2_reference::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_2_referencing_and_borrowing_3_reference::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_2_referencing_and_borrowing_4_reference::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_2_referencing_and_borrowing_5_reference::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_2_referencing_and_borrowing_6_ref::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_2_referencing_and_borrowing_7_borrowing_rules::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_2_referencing_and_borrowing_8_mutablity::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_2_referencing_and_borrowing_9_mutablity::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_2_referencing_and_borrowing_10_nll::main();
+    // rust_by_practice::_05_ownership_and_borrowing::_2_referencing_and_borrowing_11_nll::main();
 }
