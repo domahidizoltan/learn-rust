@@ -182,4 +182,19 @@ fn rust_by_practice() {
     // rust_by_practice::_07_flow_control::_1_flow_control_10_loop::main();
     // rust_by_practice::_07_flow_control::_1_flow_control_11_loop::main();
 
+    // rust_by_practice::_08_pattern_match::_1_match_matches_and_if_let_1_match::main();
+    // rust_by_practice::_08_pattern_match::_1_match_matches_and_if_let_2_match::main();
+    // rust_by_practice::_08_pattern_match::_1_match_matches_and_if_let_3_match::main();
+    // rust_by_practice::_08_pattern_match::_1_match_matches_and_if_let_4_matches::main();
+    // rust_by_practice::_08_pattern_match::_1_match_matches_and_if_let_5_matches::main();
+    // rust_by_practice::_08_pattern_match::_1_match_matches_and_if_let_6_if_let::main();
+    // rust_by_practice::_08_pattern_match::_1_match_matches_and_if_let_7_if_let::main();
+    // rust_by_practice::_08_pattern_match::_1_match_matches_and_if_let_8_if_let::main();
+    // rust_by_practice::_08_pattern_match::_1_match_matches_and_if_let_9_shadowing::main();
+    // rust_by_practice::_08_pattern_match::_2_patterns_1::main();
+    // rust_by_practice::_08_pattern_match::_2_patterns_2::main();
+    // rust_by_practice::_08_pattern_match::_2_patterns_3::main();
+    // rust_by_practice::_08_pattern_match::_2_patterns_4::main();
+    // rust_by_practice::_08_pattern_match::_2_patterns_5::main();
+    // rust_by_practice::_08_pattern_match::_2_patterns_6::main();
 }
