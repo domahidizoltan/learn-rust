@@ -79,6 +79,12 @@ fn rust_by_example() {
     // rust_by_example::_10_modules::_3_the_use_declaration::main();
     // rust_by_example::_10_modules::_4_super_and_self::main();
     // rust_by_example::_10_modules::_5_file_hierarchy::split::main();
+
+    // 11.1 Creating a Library
+    //   compile with: rustc --crate-type=lib src/rust_by_example/_11_crates/_1_creating_a_library.rs
+    // 11.2 Using a Library
+    //   compile and run with: rustc src/rust_by_example/_11_crates/_2_using_a_library.rs --extern rary=lib_1_creating_a_library.rlib && ./_2_using_a_library
+
 }
 
 fn rust_by_practice() {
