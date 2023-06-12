@@ -73,6 +73,12 @@ fn rust_by_example() {
     // rust_by_example::_09_functions::_2_closures_6_examples_in_std_2_searching_through_iterators::main();
     // rust_by_example::_09_functions::_3_higher_order_functions::main();
     // rust_by_example::_09_functions::_4_diverging_functions::main();
+
+    // rust_by_example::_10_modules::_1_visibility::main();
+    // rust_by_example::_10_modules::_2_struct_visibility::main();
+    // rust_by_example::_10_modules::_3_the_use_declaration::main();
+    // rust_by_example::_10_modules::_4_super_and_self::main();
+    // rust_by_example::_10_modules::_5_file_hierarchy::split::main();
 }
 
 fn rust_by_practice() {
