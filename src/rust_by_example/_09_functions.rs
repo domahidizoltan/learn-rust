@@ -1,0 +1,12 @@
+pub mod _0_functions;
+pub mod _1_methods;
+pub mod _2_closures;
+pub mod _2_closures_1_capturing;
+pub mod _2_closures_2_as_input_parameters;
+pub mod _2_closures_3_type_anonymity;
+pub mod _2_closures_4_input_functions;
+pub mod _2_closures_5_as_output_parameters;
+pub mod _2_closures_6_examples_in_std_1_iterator_any;
+pub mod _2_closures_6_examples_in_std_2_searching_through_iterators;
+pub mod _3_higher_order_functions;
+pub mod _4_diverging_functions;

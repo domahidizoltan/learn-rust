@@ -60,6 +60,19 @@ fn rust_by_example() {
     // rust_by_example::_08_flow_of_control::_6_if_let::main();
     // rust_by_example::_08_flow_of_control::_7_let_else::main();
     // rust_by_example::_08_flow_of_control::_8_while_let::main();
+
+    // rust_by_example::_09_functions::_0_functions::main();
+    // rust_by_example::_09_functions::_1_methods::main();
+    // rust_by_example::_09_functions::_2_closures::main();
+    // rust_by_example::_09_functions::_2_closures_1_capturing::main();
+    // rust_by_example::_09_functions::_2_closures_2_as_input_parameters::main();
+    // rust_by_example::_09_functions::_2_closures_3_type_anonymity::main();
+    // rust_by_example::_09_functions::_2_closures_4_input_functions::main();
+    // rust_by_example::_09_functions::_2_closures_5_as_output_parameters::main();
+    // rust_by_example::_09_functions::_2_closures_6_examples_in_std_1_iterator_any::main();
+    // rust_by_example::_09_functions::_2_closures_6_examples_in_std_2_searching_through_iterators::main();
+    // rust_by_example::_09_functions::_3_higher_order_functions::main();
+    // rust_by_example::_09_functions::_4_diverging_functions::main();
 }
 
 fn rust_by_practice() {
