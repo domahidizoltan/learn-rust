@@ -1,0 +1,6 @@
+pub mod _0_method_and_associated_function_1_method;
+pub mod _0_method_and_associated_function_2_method;
+pub mod _0_method_and_associated_function_3_method;
+pub mod _0_method_and_associated_function_4_associated_functions;
+pub mod _0_method_and_associated_function_5_multiple_impl_blocks;
+pub mod _0_method_and_associated_function_6_enums;

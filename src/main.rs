@@ -222,4 +222,11 @@ fn rust_by_practice() {
     // rust_by_practice::_08_pattern_match::_2_patterns_4::main();
     // rust_by_practice::_08_pattern_match::_2_patterns_5::main();
     // rust_by_practice::_08_pattern_match::_2_patterns_6::main();
+
+    // rust_by_practice::_09_method_and_associated_function::_0_method_and_associated_function_1_method::main();
+    // rust_by_practice::_09_method_and_associated_function::_0_method_and_associated_function_2_method::main();
+    // rust_by_practice::_09_method_and_associated_function::_0_method_and_associated_function_3_method::main();
+    // rust_by_practice::_09_method_and_associated_function::_0_method_and_associated_function_4_associated_functions::main();
+    // rust_by_practice::_09_method_and_associated_function::_0_method_and_associated_function_5_multiple_impl_blocks::main();
+    // rust_by_practice::_09_method_and_associated_function::_0_method_and_associated_function_6_enums::main();
 }
