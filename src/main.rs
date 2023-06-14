@@ -229,4 +229,36 @@ fn rust_by_practice() {
     // rust_by_practice::_09_method_and_associated_function::_0_method_and_associated_function_4_associated_functions::main();
     // rust_by_practice::_09_method_and_associated_function::_0_method_and_associated_function_5_multiple_impl_blocks::main();
     // rust_by_practice::_09_method_and_associated_function::_0_method_and_associated_function_6_enums::main();
+
+    // rust_by_practice::_10_generics_and_traits::_1_generics_1_functions::main();
+    // rust_by_practice::_10_generics_and_traits::_1_generics_2_functions::main();
+    // rust_by_practice::_10_generics_and_traits::_1_generics_3_struct_and_impl::main();
+    // rust_by_practice::_10_generics_and_traits::_1_generics_4_struct_and_impl::main();
+    // rust_by_practice::_10_generics_and_traits::_1_generics_5_struct_and_impl::main();
+    // rust_by_practice::_10_generics_and_traits::_1_generics_6_method::main();
+    // rust_by_practice::_10_generics_and_traits::_1_generics_7_method::main();
+    // rust_by_practice::_10_generics_and_traits::_2_const_generics_1::main();
+    // rust_by_practice::_10_generics_and_traits::_2_const_generics_2::main();
+    // rust_by_practice::_10_generics_and_traits::_2_const_generics_3::main();
+    // rust_by_practice::_10_generics_and_traits::_3_traits_1_example::main();
+    // rust_by_practice::_10_generics_and_traits::_3_traits_1::main();
+    // rust_by_practice::_10_generics_and_traits::_3_traits_2_derive::main();
+    // rust_by_practice::_10_generics_and_traits::_3_traits_3_operator::main();
+    // rust_by_practice::_10_generics_and_traits::_3_traits_4_operator::main();
+    // rust_by_practice::_10_generics_and_traits::_3_traits_5_use_trait_as_function_parameters::main();
+    // rust_by_practice::_10_generics_and_traits::_3_traits_6_returning_types_that_implement_traits::main();
+    // rust_by_practice::_10_generics_and_traits::_3_traits_7_trait_bound::main();
+    // rust_by_practice::_10_generics_and_traits::_3_traits_8_trait_bound::main();
+    // rust_by_practice::_10_generics_and_traits::_3_traits_9_trait_bound::main();
+    // rust_by_practice::_10_generics_and_traits::_4_trait_object_1_returning_traits_with_dyn::main();
+    // rust_by_practice::_10_generics_and_traits::_4_trait_object_2_array_with_trait_objects::main();
+    // rust_by_practice::_10_generics_and_traits::_4_trait_object_3_dyn_and_box_dyn::main();
+    // rust_by_practice::_10_generics_and_traits::_4_trait_object_4_static_and_dynamic_dispatch::main();
+    // rust_by_practice::_10_generics_and_traits::_4_trait_object_5_object_safe::main();
+    // rust_by_practice::_10_generics_and_traits::_5_advanced_traits_1_associated_types::main();
+    // rust_by_practice::_10_generics_and_traits::_5_advanced_traits_2_default_generic_type_parameters::main();
+    // rust_by_practice::_10_generics_and_traits::_5_advanced_traits_3_fully_qualified_syntax_example::main();
+    // rust_by_practice::_10_generics_and_traits::_5_advanced_traits_3_fully_qualified_syntax::main();
+    // rust_by_practice::_10_generics_and_traits::_5_advanced_traits_4_supertraits::main();
+    // rust_by_practice::_10_generics_and_traits::_5_advanced_traits_5_orphan_rules::main();
 }
