@@ -6,3 +6,4 @@ pub mod _07_flow_control;
 pub mod _08_pattern_match;
 pub mod _09_method_and_associated_function;
 pub mod _10_generics_and_traits;
+pub mod _11_collection_types;

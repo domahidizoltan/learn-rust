@@ -261,4 +261,26 @@ fn rust_by_practice() {
     // rust_by_practice::_10_generics_and_traits::_5_advanced_traits_3_fully_qualified_syntax::main();
     // rust_by_practice::_10_generics_and_traits::_5_advanced_traits_4_supertraits::main();
     // rust_by_practice::_10_generics_and_traits::_5_advanced_traits_5_orphan_rules::main();
+
+    // rust_by_practice::_11_collection_types::_1_string_1_basic_operations::main();
+    // rust_by_practice::_11_collection_types::_1_string_2_string_and_str::main();
+    // rust_by_practice::_11_collection_types::_1_string_3_string_and_str::main();
+    // rust_by_practice::_11_collection_types::_1_string_4_utf8_and_indexing::main();
+    // rust_by_practice::_11_collection_types::_1_string_5_utf8_slice::main();
+    // rust_by_practice::_11_collection_types::_1_string_6_representation::main();
+    // rust_by_practice::_11_collection_types::_1_string_7_representation::main();
+    // rust_by_practice::_11_collection_types::_2_vector_1_basic_operations::main();
+    // rust_by_practice::_11_collection_types::_2_vector_2_basic_operations::main();
+    // rust_by_practice::_11_collection_types::_2_vector_3_turn_x_into_vec::main();
+    // rust_by_practice::_11_collection_types::_2_vector_4_indexing::main();
+    // rust_by_practice::_11_collection_types::_2_vector_5_slicing::main();
+    // rust_by_practice::_11_collection_types::_2_vector_6_capacity::main();
+    // rust_by_practice::_11_collection_types::_2_vector_7_store_distinct_types_in_vector::main();
+    // rust_by_practice::_11_collection_types::_2_vector_8_store_distinct_types_in_vector::main();
+    // rust_by_practice::_11_collection_types::_3_hashmap_1_basic_operations::main();
+    // rust_by_practice::_11_collection_types::_3_hashmap_2_basic_operations::main();
+    // rust_by_practice::_11_collection_types::_3_hashmap_3_basic_operations::main();
+    // rust_by_practice::_11_collection_types::_3_hashmap_4_requirements_of_hashmap_key::main();
+    // rust_by_practice::_11_collection_types::_3_hashmap_4_capacity_example::main();
+    // rust_by_practice::_11_collection_types::_3_hashmap_5_ownership::main();
 }
