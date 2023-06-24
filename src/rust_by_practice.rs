@@ -8,3 +8,4 @@ pub mod _09_method_and_associated_function;
 pub mod _10_generics_and_traits;
 pub mod _11_collection_types;
 pub mod _12_type_conversion;
+pub mod _13_result_and_panic;

@@ -299,4 +299,14 @@ fn rust_by_practice() {
     // rust_by_practice::_12_type_conversion::_3_others_3_parse_a_string::main();
     // rust_by_practice::_12_type_conversion::_3_others_transmute_examples_1::main();
     // rust_by_practice::_12_type_conversion::_3_others_transmute_examples_3::main();
+
+    // rust_by_practice::_13_result_and_panic::_1_panic_1::main();
+    // rust_by_practice::_13_result_and_panic::_1_panic_2::main();
+    // rust_by_practice::_13_result_and_panic::_2_result_and_questionmark_1::main();
+    // rust_by_practice::_13_result_and_panic::_2_result_and_questionmark_2_questionmark::main();
+    // rust_by_practice::_13_result_and_panic::_2_result_and_questionmark_3_questionmark::main();
+    // rust_by_practice::_13_result_and_panic::_2_result_and_questionmark_4_map_and_then::main();
+    // rust_by_practice::_13_result_and_panic::_2_result_and_questionmark_5_map_and_then::main();
+    // rust_by_practice::_13_result_and_panic::_2_result_and_questionmark_6_type_alias::main();
+    // rust_by_practice::_13_result_and_panic::_2_result_and_questionmark_using_result_in_fn_main::main();
 }
