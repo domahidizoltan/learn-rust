@@ -283,4 +283,20 @@ fn rust_by_practice() {
     // rust_by_practice::_11_collection_types::_3_hashmap_4_requirements_of_hashmap_key::main();
     // rust_by_practice::_11_collection_types::_3_hashmap_4_capacity_example::main();
     // rust_by_practice::_11_collection_types::_3_hashmap_5_ownership::main();
+
+    // rust_by_practice::_12_type_conversion::_1_as_1::main();
+    // rust_by_practice::_12_type_conversion::_1_as_2::main();
+    // rust_by_practice::_12_type_conversion::_1_as_3::main();
+    // rust_by_practice::_12_type_conversion::_1_as_4::main();
+    // rust_by_practice::_12_type_conversion::_1_as_5::main();
+    // rust_by_practice::_12_type_conversion::_2_from_into_1::main();
+    // rust_by_practice::_12_type_conversion::_2_from_into_2::main();
+    // rust_by_practice::_12_type_conversion::_2_from_into_3::main();
+    // rust_by_practice::_12_type_conversion::_2_from_into_4_tryfrom_tryinto::main();
+    // rust_by_practice::_12_type_conversion::_2_from_into_5_tryfrom_tryinto::main();
+    // rust_by_practice::_12_type_conversion::_3_others_1_convert_any_type_to_string::main();
+    // rust_by_practice::_12_type_conversion::_3_others_2_parse_a_string::main();
+    // rust_by_practice::_12_type_conversion::_3_others_3_parse_a_string::main();
+    // rust_by_practice::_12_type_conversion::_3_others_transmute_examples_1::main();
+    // rust_by_practice::_12_type_conversion::_3_others_transmute_examples_3::main();
 }

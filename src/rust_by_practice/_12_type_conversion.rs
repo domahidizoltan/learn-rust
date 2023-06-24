@@ -1,0 +1,16 @@
+pub mod _1_as_1;
+pub mod _1_as_2;
+pub mod _1_as_3;
+pub mod _1_as_4;
+pub mod _1_as_5;
+pub mod _2_from_into_1;
+pub mod _2_from_into_2;
+pub mod _2_from_into_3;
+pub mod _2_from_into_4_tryfrom_tryinto;
+pub mod _2_from_into_5_tryfrom_tryinto;
+pub mod _3_others_1_convert_any_type_to_string;
+pub mod _3_others_2_parse_a_string;
+pub mod _3_others_3_parse_a_string;
+pub mod _3_others_transmute_examples_1;
+pub mod _3_others_transmute_examples_2;
+pub mod _3_others_transmute_examples_3;
