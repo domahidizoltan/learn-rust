@@ -328,4 +328,31 @@ fn rust_by_practice() {
     // rust_by_practice::_16_formatted_output::_3_formatting_8_binary_octal_hex::main();
     // rust_by_practice::_16_formatted_output::_3_formatting_9_capture_the_environment::main();
     // rust_by_practice::_16_formatted_output::_3_formatting_others::main();
+
+    // rust_by_practice::_17_lifetime::_1_basic_1_scope::main();
+    // rust_by_practice::_17_lifetime::_1_basic_2_example::main();
+    // rust_by_practice::_17_lifetime::_1_basic_3_function_example::main();
+    // rust_by_practice::_17_lifetime::_1_basic_3_function::main();
+    // rust_by_practice::_17_lifetime::_1_basic_4_function::main();
+    // rust_by_practice::_17_lifetime::_1_basic_5_function::main();
+    // rust_by_practice::_17_lifetime::_1_basic_6_structs::main();
+    // rust_by_practice::_17_lifetime::_1_basic_7_structs::main();
+    // rust_by_practice::_17_lifetime::_1_basic_8_structs::main();
+    // rust_by_practice::_17_lifetime::_1_basic_9_method_example::main();
+    // rust_by_practice::_17_lifetime::_1_basic_9_method::main();
+    // rust_by_practice::_17_lifetime::_1_basic_10_elision::main();
+    // rust_by_practice::_17_lifetime::_2_static_and_t_static_1_static::main();
+    // rust_by_practice::_17_lifetime::_2_static_and_t_static_2_static::main();
+    // rust_by_practice::_17_lifetime::_2_static_and_t_static_3_static::main();
+    // rust_by_practice::_17_lifetime::_2_static_and_t_static_4_static_example::main();
+    // rust_by_practice::_17_lifetime::_2_static_and_t_static_5_t_static::main();
+    // rust_by_practice::_17_lifetime::_2_static_and_t_static_6_t_static::main();
+    // rust_by_practice::_17_lifetime::_3_advanced_1_trait_bounds_example::main();
+    // rust_by_practice::_17_lifetime::_3_advanced_1_trait_bounds::main();
+    // rust_by_practice::_17_lifetime::_3_advanced_2_trait_bounds::main();
+    // rust_by_practice::_17_lifetime::_3_advanced_3_trait_bounds::main();
+    // rust_by_practice::_17_lifetime::_3_advanced_4_hrtb::main();
+    // rust_by_practice::_17_lifetime::_3_advanced_5_reborrow_example::main();
+    // rust_by_practice::_17_lifetime::_3_advanced_5_reborrow::main();
+    // rust_by_practice::_17_lifetime::_3_advanced_6_difficult_exercise::main();
 }
