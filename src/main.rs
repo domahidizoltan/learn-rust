@@ -309,4 +309,23 @@ fn rust_by_practice() {
     // rust_by_practice::_13_result_and_panic::_2_result_and_questionmark_5_map_and_then::main();
     // rust_by_practice::_13_result_and_panic::_2_result_and_questionmark_6_type_alias::main();
     // rust_by_practice::_13_result_and_panic::_2_result_and_questionmark_using_result_in_fn_main::main();
+
+    // rust_by_practice::_16_formatted_output::_0_formatted_output::main();
+    // rust_by_practice::_16_formatted_output::_1_println_and_format_1_format::main();
+    // rust_by_practice::_16_formatted_output::_1_println_and_format_2_print_println::main();
+    // rust_by_practice::_16_formatted_output::_2_debug_and_display_1_debug::main();
+    // rust_by_practice::_16_formatted_output::_2_debug_and_display_2_debug::main();
+    // rust_by_practice::_16_formatted_output::_2_debug_and_display_3_debug::main();
+    // rust_by_practice::_16_formatted_output::_2_debug_and_display_4_display::main();
+    // rust_by_practice::_16_formatted_output::_2_debug_and_display_5_questionmark_operator::main();
+    // rust_by_practice::_16_formatted_output::_3_formatting_1_positional_arguments::main();
+    // rust_by_practice::_16_formatted_output::_3_formatting_2_named_arguments::main();
+    // rust_by_practice::_16_formatted_output::_3_formatting_3_padding_with_strings::main();
+    // rust_by_practice::_16_formatted_output::_3_formatting_4_padding_with_strings::main();
+    // rust_by_practice::_16_formatted_output::_3_formatting_5_padding_with_strings::main();
+    // rust_by_practice::_16_formatted_output::_3_formatting_6_precision::main();
+    // rust_by_practice::_16_formatted_output::_3_formatting_7_precision::main();
+    // rust_by_practice::_16_formatted_output::_3_formatting_8_binary_octal_hex::main();
+    // rust_by_practice::_16_formatted_output::_3_formatting_9_capture_the_environment::main();
+    // rust_by_practice::_16_formatted_output::_3_formatting_others::main();
 }
