@@ -381,4 +381,14 @@ fn rust_by_practice() {
     // rust_by_practice::_18_functional_programming::_2_iterator_10_iterator_adaptors::main();
     // rust_by_practice::_18_functional_programming::_2_iterator_11_iterator_adaptors::main();
     // rust_by_practice::_18_functional_programming::_2_iterator_12_using_closures_in_iterator_adaptors::main();
+
+    // rust_by_practice::_19_newtype_and_dst::_0_newtype_and_dst_1_newtype::main();
+    // rust_by_practice::_19_newtype_and_dst::_0_newtype_and_dst_2_newtype::main();
+    // rust_by_practice::_19_newtype_and_dst::_0_newtype_and_dst_3_newtype::main();
+    // rust_by_practice::_19_newtype_and_dst::_0_newtype_and_dst_4_newtype::main();
+    // rust_by_practice::_19_newtype_and_dst::_0_newtype_and_dst_5_type_alias::main();
+    // rust_by_practice::_19_newtype_and_dst::_0_newtype_and_dst_6_type_alias::main();
+    // rust_by_practice::_19_newtype_and_dst::_0_newtype_and_dst_7_dst_and_unsized_type::main();
+    // rust_by_practice::_19_newtype_and_dst::_0_newtype_and_dst_8_dst_and_unsized_type::main();
+    // rust_by_practice::_19_newtype_and_dst::_0_newtype_and_dst_9_dst_and_unsized_type::main();
 }

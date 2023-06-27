@@ -1,0 +1,9 @@
+pub mod _0_newtype_and_dst_1_newtype;
+pub mod _0_newtype_and_dst_2_newtype;
+pub mod _0_newtype_and_dst_3_newtype;
+pub mod _0_newtype_and_dst_4_newtype;
+pub mod _0_newtype_and_dst_5_type_alias;
+pub mod _0_newtype_and_dst_6_type_alias;
+pub mod _0_newtype_and_dst_7_dst_and_unsized_type;
+pub mod _0_newtype_and_dst_8_dst_and_unsized_type;
+pub mod _0_newtype_and_dst_9_dst_and_unsized_type;
