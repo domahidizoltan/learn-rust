@@ -391,4 +391,6 @@ fn rust_by_practice() {
     // rust_by_practice::_19_newtype_and_dst::_0_newtype_and_dst_7_dst_and_unsized_type::main();
     // rust_by_practice::_19_newtype_and_dst::_0_newtype_and_dst_8_dst_and_unsized_type::main();
     // rust_by_practice::_19_newtype_and_dst::_0_newtype_and_dst_9_dst_and_unsized_type::main();
+
+    // rust_by_practice::_31_fighting_with_compiler::_1_borrowing_1::main();
 }

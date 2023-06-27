@@ -13,3 +13,4 @@ pub mod _16_formatted_output;
 pub mod _17_lifetime;
 pub mod _18_functional_programming;
 pub mod _19_newtype_and_dst;
+pub mod _31_fighting_with_compiler;
