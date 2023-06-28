@@ -85,6 +85,19 @@ fn rust_by_example() {
     // 11.2 Using a Library
     //   compile and run with: rustc src/rust_by_example/_11_crates/_2_using_a_library.rs --extern rary=lib_1_creating_a_library.rlib && ./_2_using_a_library
 
+    // rust_by_example::_14_generics::_0_generics::main();
+    // rust_by_example::_14_generics::_1_functions::main();
+    // rust_by_example::_14_generics::_2_implementation::main();
+    // rust_by_example::_14_generics::_3_traits::main();
+    // rust_by_example::_14_generics::_4_bounds::main();
+    // rust_by_example::_14_generics::_4_bounds_1_empty_bounds::main();
+    // rust_by_example::_14_generics::_5_multiple_bounds::main();
+    // rust_by_example::_14_generics::_6_where_clauses::main();
+    // rust_by_example::_14_generics::_7_new_type_idiom::main();
+    // rust_by_example::_14_generics::_8_associated_items_1_the_problem::main();
+    // rust_by_example::_14_generics::_8_associated_items_2_associated_types::main();
+    // rust_by_example::_14_generics::_9_phantom_type_parameters::main();
+    // rust_by_example::_14_generics::_9_phantom_type_parameters_1_unit_clarification::main();
 }
 
 fn rust_by_practice() {
