@@ -117,6 +117,20 @@ fn rust_by_example() {
     // rust_by_example::_15_scoping_rules::_4_lifetimes_8_static_reference_lifetime::main();
     // rust_by_example::_15_scoping_rules::_4_lifetimes_8_static_trait_bound::main();
     // rust_by_example::_15_scoping_rules::_4_lifetimes_9_elision::main();
+
+    // rust_by_example::_16_traits::_0_traits::main();
+    // rust_by_example::_16_traits::_1_derive::main();
+    // rust_by_example::_16_traits::_2_returning_traits_with_dyn::main();
+    // rust_by_example::_16_traits::_3_operator_overloading::main();
+    // rust_by_example::_16_traits::_4_drop::main();
+    // rust_by_example::_16_traits::_5_iterators::main();
+    // rust_by_example::_16_traits::_6_impl_trait_1_as_an_argument_type::main();
+    // rust_by_example::_16_traits::_6_impl_trait_2_as_a_return_type::main();
+    // rust_by_example::_16_traits::_6_impl_trait_3_as_a_return_type::main();
+    // rust_by_example::_16_traits::_6_impl_trait_4_as_a_return_type::main();
+    // rust_by_example::_16_traits::_7_clone::main();
+    // rust_by_example::_16_traits::_8_supertraits::main();
+    // rust_by_example::_16_traits::_9_disambiguating_overlapping_traits::main();
 }
 
 fn rust_by_practice() {
