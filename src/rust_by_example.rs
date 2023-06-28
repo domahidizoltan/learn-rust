@@ -9,3 +9,4 @@ pub mod _08_flow_of_control;
 pub mod _09_functions;
 pub mod _10_modules;
 pub mod _14_generics;
+pub mod _15_scoping_rules;

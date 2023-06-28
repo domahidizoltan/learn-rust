@@ -98,6 +98,25 @@ fn rust_by_example() {
     // rust_by_example::_14_generics::_8_associated_items_2_associated_types::main();
     // rust_by_example::_14_generics::_9_phantom_type_parameters::main();
     // rust_by_example::_14_generics::_9_phantom_type_parameters_1_unit_clarification::main();
+
+    // rust_by_example::_15_scoping_rules::_1_raii::main();
+    // rust_by_example::_15_scoping_rules::_2_ownership_and_moves::main();
+    // rust_by_example::_15_scoping_rules::_2_ownership_and_moves_1_mutability::main();
+    // rust_by_example::_15_scoping_rules::_2_ownership_and_moves_2_partial_moves::main();
+    // rust_by_example::_15_scoping_rules::_3_borrowing::main();
+    // rust_by_example::_15_scoping_rules::_3_borrowing_1_mutability::main();
+    // rust_by_example::_15_scoping_rules::_3_borrowing_2_aliasing::main();
+    // rust_by_example::_15_scoping_rules::_3_borrowing_3_the_ref_pattern::main();
+    // rust_by_example::_15_scoping_rules::_4_lifetimes_1_explicit_annotation::main();
+    // rust_by_example::_15_scoping_rules::_4_lifetimes_2_functions::main();
+    // rust_by_example::_15_scoping_rules::_4_lifetimes_3_methods::main();
+    // rust_by_example::_15_scoping_rules::_4_lifetimes_4_structs::main();
+    // rust_by_example::_15_scoping_rules::_4_lifetimes_5_traits::main();
+    // rust_by_example::_15_scoping_rules::_4_lifetimes_6_bounds::main();
+    // rust_by_example::_15_scoping_rules::_4_lifetimes_7_coercion::main();
+    // rust_by_example::_15_scoping_rules::_4_lifetimes_8_static_reference_lifetime::main();
+    // rust_by_example::_15_scoping_rules::_4_lifetimes_8_static_trait_bound::main();
+    // rust_by_example::_15_scoping_rules::_4_lifetimes_9_elision::main();
 }
 
 fn rust_by_practice() {
