@@ -131,6 +131,14 @@ fn rust_by_example() {
     // rust_by_example::_16_traits::_7_clone::main();
     // rust_by_example::_16_traits::_8_supertraits::main();
     // rust_by_example::_16_traits::_9_disambiguating_overlapping_traits::main();
+
+    // rust_by_example::_17_macro_rules::_0_macro_rules::main();
+    // rust_by_example::_17_macro_rules::_1_syntax_1_designators::main();
+    // rust_by_example::_17_macro_rules::_1_syntax_2_overload::main();
+    // rust_by_example::_17_macro_rules::_1_syntax_3_repeat::main();
+    // rustc --test src/rust_by_example/_17_macro_rules/_2_dry.rs && ./_2_dry
+    // rust_by_example::_17_macro_rules::_3_dsl::main();
+    // rust_by_example::_17_macro_rules::_4_variadic_interfaces::main();
 }
 
 fn rust_by_practice() {
