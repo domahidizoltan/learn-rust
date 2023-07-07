@@ -181,6 +181,21 @@ fn rust_by_example() {
     // rust_by_example::_19_std_library_types::_7_hashmap_2_hashset::main();
     // rust_by_example::_19_std_library_types::_8_rc::main();
     // rust_by_example::_19_std_library_types::_9_arc::main();
+
+    // rust_by_example::_20_std_misc::_1_threads::main();
+    // rust_by_example::_20_std_misc::_1_threads_1_testcase_mapreduce::main();
+    // rust_by_example::_20_std_misc::_2_channels::main();
+    // rust_by_example::_20_std_misc::_3_path::main();
+    // rust_by_example::_20_std_misc::_4_file_io_1_open::main();
+    // rust_by_example::_20_std_misc::_4_file_io_2_create::main();
+    // rust_by_example::_20_std_misc::_4_file_io_3_read_lines::main();
+    // rust_by_example::_20_std_misc::_5_child_processes::main();
+    // rust_by_example::_20_std_misc::_5_child_processes_1_pipes::main();
+    // rust_by_example::_20_std_misc::_5_child_processes_2_wait::main();
+    // rust_by_example::_20_std_misc::_6_filesystem_operations::main();
+    // rust_by_example::_20_std_misc::_7_program_arguments::main();
+    // rust_by_example::_20_std_misc::_7_program_arguments_1_argument_parsing::main();
+    // rust_by_example::_20_std_misc::_8_foreign_function_interface::main();
 }
 
 fn rust_by_practice() {
