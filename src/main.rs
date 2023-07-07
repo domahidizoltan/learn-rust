@@ -165,6 +165,22 @@ fn rust_by_example() {
     // rust_by_example::_18_error_handling::_5_multiple_error_types_4_other_uses_of_questionmark::main();
     // rust_by_example::_18_error_handling::_5_multiple_error_types_5_wrapping_errors::main();
     // rust_by_example::_18_error_handling::_6_iterating_over_results::main();
+
+    // rust_by_example::_19_std_library_types::_1_box_stack_and_heap::main();
+    // rust_by_example::_19_std_library_types::_2_vectors::main();
+    // rust_by_example::_19_std_library_types::_3_strings_1::main();
+    // rust_by_example::_19_std_library_types::_3_strings_2_literals_and_escapes::main();
+    // rust_by_example::_19_std_library_types::_3_strings_3_literals_and_escapes::main();
+    // rust_by_example::_19_std_library_types::_3_strings_4_literals_and_escapes::main();
+    // rust_by_example::_19_std_library_types::_4_option::main();
+    // rust_by_example::_19_std_library_types::_5_result::main();
+    // rust_by_example::_19_std_library_types::_5_result_1_questionmark::main();
+    // rust_by_example::_19_std_library_types::_6_panic::main();
+    // rust_by_example::_19_std_library_types::_7_hashmap::main();
+    // rust_by_example::_19_std_library_types::_7_hashmap_1_alternate_custom_key_types::main();
+    // rust_by_example::_19_std_library_types::_7_hashmap_2_hashset::main();
+    // rust_by_example::_19_std_library_types::_8_rc::main();
+    // rust_by_example::_19_std_library_types::_9_arc::main();
 }
 
 fn rust_by_practice() {
