@@ -139,6 +139,32 @@ fn rust_by_example() {
     // rustc --test src/rust_by_example/_17_macro_rules/_2_dry.rs && ./_2_dry
     // rust_by_example::_17_macro_rules::_3_dsl::main();
     // rust_by_example::_17_macro_rules::_4_variadic_interfaces::main();
+
+    // rust_by_example::_18_error_handling::_1_panic::main();
+    // rustc src/rust_by_example/_18_error_handling/_2_abort_and_unwind_1.rs -C panic=abort && ./_2_abort_and_unwind_1
+    // // rust_by_example::_18_error_handling::_2_abort_and_unwind_1::main();
+    // rust_by_example::_18_error_handling::_2_abort_and_unwind_2::main();
+    // rust_by_example::_18_error_handling::_3_option_and_unwrap::main();
+    // rust_by_example::_18_error_handling::_3_option_and_unwrap_1_unpacking_options_with_questionmark::main();
+    // rust_by_example::_18_error_handling::_3_option_and_unwrap_2_combinators_map::main();
+    // rust_by_example::_18_error_handling::_3_option_and_unwrap_3_combinators_and_then::main();
+    // rust_by_example::_18_error_handling::_3_option_and_unwrap_4_unpacking_options_and_defaults::main();
+    // rust_by_example::_18_error_handling::_4_result::main();
+    // rust_by_example::_18_error_handling::_4_result_main::main();
+    // rust_by_example::_18_error_handling::_4_result_1_map_for_result_1::main();
+    // rust_by_example::_18_error_handling::_4_result_1_map_for_result_2::main();
+    // rust_by_example::_18_error_handling::_4_result_2_aliases_for_result::main();
+    // rust_by_example::_18_error_handling::_4_result_3_early_returns::main();
+    // rust_by_example::_18_error_handling::_4_result_4_introducing_questionmark_1::main();
+    // rust_by_example::_18_error_handling::_4_result_4_introducing_questionmark_2_try_macro::main();
+    // rust_by_example::_18_error_handling::_5_multiple_error_types::main();
+    // rust_by_example::_18_error_handling::_5_multiple_error_types_1_pulling_results_out_of_options_1::main();
+    // rust_by_example::_18_error_handling::_5_multiple_error_types_1_pulling_results_out_of_options_2::main();
+    // rust_by_example::_18_error_handling::_5_multiple_error_types_2_defining_an_error_type::main();
+    // rust_by_example::_18_error_handling::_5_multiple_error_types_3_boxing_errors::main();
+    // rust_by_example::_18_error_handling::_5_multiple_error_types_4_other_uses_of_questionmark::main();
+    // rust_by_example::_18_error_handling::_5_multiple_error_types_5_wrapping_errors::main();
+    // rust_by_example::_18_error_handling::_6_iterating_over_results::main();
 }
 
 fn rust_by_practice() {

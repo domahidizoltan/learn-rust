@@ -12,3 +12,4 @@ pub mod _14_generics;
 pub mod _15_scoping_rules;
 pub mod _16_traits;
 pub mod _17_macro_rules;
+pub mod _18_error_handling;
