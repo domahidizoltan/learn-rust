@@ -199,6 +199,8 @@ fn rust_by_example() {
 
     // 21. Testing
     // run with: cargo test or cargo test <test_fn_name>
+
+    // rust_by_example::_22_unsafe_operations::_0_unsafe_operations::main();    
 }
 
 fn rust_by_practice() {
