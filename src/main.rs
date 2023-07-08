@@ -196,6 +196,9 @@ fn rust_by_example() {
     // rust_by_example::_20_std_misc::_7_program_arguments::main();
     // rust_by_example::_20_std_misc::_7_program_arguments_1_argument_parsing::main();
     // rust_by_example::_20_std_misc::_8_foreign_function_interface::main();
+
+    // 21. Testing
+    // run with: cargo test or cargo test <test_fn_name>
 }
 
 fn rust_by_practice() {
